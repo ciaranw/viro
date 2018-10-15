@@ -127,7 +127,6 @@ ViroMaterials.createMaterials({
   box: {
       cullMode: "None",
       shininess: 2.0,
-      diffuseTexture: require('./res/rocket.png'),
     },
 
   ground:{
